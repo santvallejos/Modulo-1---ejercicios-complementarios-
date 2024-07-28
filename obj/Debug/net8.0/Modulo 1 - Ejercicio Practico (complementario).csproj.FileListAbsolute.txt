@@ -1,0 +1,14 @@
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/bin/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario)
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/bin/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).deps.json
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/bin/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).runtimeconfig.json
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/bin/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/bin/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).pdb
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).GeneratedMSBuildEditorConfig.editorconfig
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).AssemblyInfoInputs.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).AssemblyInfo.cs
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).csproj.CoreCompileInputs.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/refint/Modulo 1 - Ejercicio Practico (complementario).dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).pdb
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).genruntimeconfig.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/ref/Modulo 1 - Ejercicio Practico (complementario).dll
