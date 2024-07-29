@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modulo 1 - Ejercicio Practico (complementario)")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b147a82267ab1e7673995ed5c0df7413e2d81d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modulo 1 - Ejercicio Practico (complementario)")]

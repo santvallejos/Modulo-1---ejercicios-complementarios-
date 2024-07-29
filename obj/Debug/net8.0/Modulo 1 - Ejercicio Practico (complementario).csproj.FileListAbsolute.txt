@@ -12,3 +12,18 @@
 /Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).pdb
 /Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/Modulo 1 - Ejercicio Practico (complementario).genruntimeconfig.cache
 /Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Modulo 1 - Ejercicio Practico (complementario)/obj/Debug/net8.0/ref/Modulo 1 - Ejercicio Practico (complementario).dll
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\obj\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\obj\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).AssemblyInfoInputs.cache
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\obj\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).AssemblyInfo.cs
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\obj\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).csproj.CoreCompileInputs.cache
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\obj\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).sourcelink.json
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\obj\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).dll
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\obj\Debug\net8.0\refint\Modulo 1 - Ejercicio Practico (complementario).dll
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\obj\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).pdb
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\bin\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).exe
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\bin\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).deps.json
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\bin\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).runtimeconfig.json
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\bin\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).dll
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\bin\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).pdb
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\obj\Debug\net8.0\Modulo 1 - Ejercicio Practico (complementario).genruntimeconfig.cache
+C:\Users\Santi\Desktop\Bootcamp Devlights 3.0\.Net\Practicas\Modulo-1---ejercicios-complementarios-\obj\Debug\net8.0\ref\Modulo 1 - Ejercicio Practico (complementario).dll
